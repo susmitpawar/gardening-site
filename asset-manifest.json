@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gardening-site/static/css/main.9bcf0cba.css",
-    "main.js": "/gardening-site/static/js/main.02570c8d.js",
+    "main.css": "/gardening-site/static/css/main.04fe6dca.css",
+    "main.js": "/gardening-site/static/js/main.0284120a.js",
     "index.html": "/gardening-site/index.html",
-    "main.9bcf0cba.css.map": "/gardening-site/static/css/main.9bcf0cba.css.map",
-    "main.02570c8d.js.map": "/gardening-site/static/js/main.02570c8d.js.map"
+    "main.04fe6dca.css.map": "/gardening-site/static/css/main.04fe6dca.css.map",
+    "main.0284120a.js.map": "/gardening-site/static/js/main.0284120a.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bcf0cba.css",
-    "static/js/main.02570c8d.js"
+    "static/css/main.04fe6dca.css",
+    "static/js/main.0284120a.js"
   ]
 }
