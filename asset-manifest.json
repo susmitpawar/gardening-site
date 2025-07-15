@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gardening-site/static/css/main.49778440.css",
+    "main.js": "/gardening-site/static/js/main.d21453a7.js",
+    "index.html": "/gardening-site/index.html",
+    "main.49778440.css.map": "/gardening-site/static/css/main.49778440.css.map",
+    "main.d21453a7.js.map": "/gardening-site/static/js/main.d21453a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49778440.css",
+    "static/js/main.d21453a7.js"
+  ]
+}
